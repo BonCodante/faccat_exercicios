@@ -1,4 +1,4 @@
-ExJavaFaccat4Semestre
+Ex FACCT
 Resolução dos exercícios de algoritmos e lógica de programação em Java baseados na apostila da Faccat (4º Semestre).
 
 📄 Conteúdo
